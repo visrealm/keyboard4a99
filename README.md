@@ -1,3 +1,5 @@
+# KEYBOARD/4A-99
+
 ![KEYBOARD/4A-99](img/logo.png)
 
 Modern replacement for the infamous Mitsumi mylar keyboards in some unfortunate Texas Instruments TI-99/4A computers.
@@ -8,8 +10,12 @@ This repository is a placeholder. Expect Schematics, Gerbers, STLs and procedure
 
 ### Gallery
 
-![](img/keycap-adapter.png)
-![](img/keyboard-mounts.png)
-![](img/pcb-v0_1.png)
-![](img/v0_1-half-populated.png)
-![](img/v0_1-populated.png)
+![adapter](img/keycap-adapter.jpg)
+
+![mounts](img/keyboard-mounts.png)
+
+![pcb](img/pcb-v0_1.jpg)
+
+![half populated](img/v0_1-half-populated.jpg)
+
+![populated](img/v0_1-populated.jpg)
