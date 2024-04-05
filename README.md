@@ -2,7 +2,7 @@
 
 ![KEYBOARD/4A-99](img/logo.png)
 
-Modern replacement for the infamous Mitsumi mylar keyboards in some unfortunate Texas Instruments TI-99/4A computers.
+Cherry MX compatible upgrade for the infamous Mitsumi mylar keyboards in many unfortunate Texas Instruments TI-99/4A computers.
 
 ![](img/pcb-v1_0.png)
 
