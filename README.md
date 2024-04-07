@@ -8,6 +8,10 @@ Cherry MX compatible upgrade for the infamous Mitsumi mylar keyboards in many un
 
 This repository is a placeholder. Expect Schematics, Gerbers, STLs and procedures soon.
 
+### Documentation (WIP)
+
+Initial documentation can be found in the [/docs](docs) directory.
+
 ### Gallery
 
 ![adapter](img/keycap-adapter.jpg)
