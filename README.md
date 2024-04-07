@@ -1,6 +1,6 @@
-# KEYBOARD/4A-99
-
 ![KEYBOARD/4A-99](img/logo.png)
+
+# KEYBOARD/4A-99
 
 Cherry MX compatible upgrade for the infamous Mitsumi mylar keyboards in many unfortunate Texas Instruments TI-99/4A computers.
 
