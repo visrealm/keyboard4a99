@@ -23,3 +23,11 @@ Initial documentation can be found in the [/docs](docs) directory.
 ![half populated](img/v0_1-half-populated.jpg)
 
 ![populated](img/v0_1-populated.jpg)
+
+### Thanks
+
+Thanks to [PCBWay](https://pcbway.com/g/186WQ9) for supporting this project.
+
+### Licence
+
+All hardware designs and products you can find in this repository is licensed under [CERN Open Hardware Licence Version 2 - Weakly Reciprocal](/LICENCE.txt)
