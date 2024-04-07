@@ -10,7 +10,7 @@ This repository is a placeholder. Expect Schematics, Gerbers, STLs and procedure
 
 ### Documentation (WIP)
 
-Initial documentation can be found in the [/docs](docs) directory.
+Initial documentation can be found in the [/doc](doc) directory.
 
 ### Gallery
 
