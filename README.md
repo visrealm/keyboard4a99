@@ -28,6 +28,8 @@ Initial documentation can be found in the [/docs](docs) directory.
 
 Thanks to [PCBWay](https://pcbway.com/g/186WQ9) for supporting this project.
 
+[![PCBWay](/img/pcbway_sm.png)](https://pcbway.com/g/186WQ9)
+
 ### Licence
 
 All hardware designs and products you can find in this repository is licensed under [CERN Open Hardware Licence Version 2 - Weakly Reciprocal](/LICENCE.txt)
