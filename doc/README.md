@@ -256,6 +256,8 @@ I recommend attaching the space bar first, since it's the most finicky. Before a
 
 The key caps you rescued can now be placed upon the new switches using the appropriate adapter for each key type. I recommend installing the keycaps before installing the PCB mounts and (obviously) before mounting the keyboard into the computer, because you can apply a more even pressure to them.
 
+![](img/keycap-adapter.jpg)
+
 * **Standard:** For most keys. You will find this model in singular ([keyboard4a99-switch-standard](../stl/keyboard4a99-switch-standard.stl)) and 7x7 array ([keyboard4a99-switch-array](../stl/keyboard4a99-switch-array.stl)) form.
 * **Space:** The space bar might need a slightly larger pin. This model ([keyboard4a99-switch-space](../stl/keyboard4a99-switch-space.stl)) will hopefully fill that... space.
 * **Right shift:** The right shift button is wider and has two (2) mounting holes. This model ([keyboard4a99-switch-rshift](../stl/keyboard4a99-switch-rshift.stl)) adapts to a single central switch.

@@ -1,28 +1,37 @@
 ![KEYBOARD/4A-99](img/logo.png)
 
-# KEYBOARD/4A-99
+# Introduction
 
-Cherry MX compatible upgrade for the infamous Mitsumi mylar keyboards in many unfortunate Texas Instruments TI-99/4A computers.
+Finally! a Cherry MX compatible upgrade for the infamous Mitsumi mylar keyboards that plague many unfortunate Texas Instruments TI-99/4A computers.
 
-![](img/pcb-v1_0.png)
+![](img/drake.jpg)
 
-This repository is a placeholder. Expect Schematics, Gerbers, STLs and procedures soon.
+The upgrade consists of a new PCB and a handful of 3D printed parts. The original look is maintained by re-using the original key caps (and some other original parts). Add the switches of your choice and you're set! A brand new keyboard for your TI-99/4A.
 
-### Documentation (WIP)
+![](img/keycap-adapter.jpg)
 
-Initial documentation can be found in the [/doc](doc) directory.
+## Only Mitsumi boards?
+
+Currently, the upgrade is designed for the Mitsumi keyboards since their mylar innards gives the most grief to TI-99 users. It is possible other TI-99/4A keyboard brands could be adapted to use this upgrade in the future, hower that would rely on community input.
+
+## The hardware
+
+The Gerber file for the KEYBOARD/4A-99 PCB is available in the [/pcb](pcb) directory. I recommend the PCB is ordered in black.
+
+STLs for all 3D printed items are located under [/stl](stl). 
+
+**Note:** Not all STLs are required.
+
+Check out the [documentation](doc) for more details, including a bill of materials and full build process.
 
 ### Gallery
 
-![adapter](img/keycap-adapter.jpg)
+![](img/keyboard-populated.jpg)
 
-![mounts](img/keyboard-mounts.png)
+![](img/keyboard-nocaps.jpg)
 
-![pcb](img/pcb-v0_1.jpg)
+![](img/pcb-v1_0.jpg)
 
-![half populated](img/v0_1-half-populated.jpg)
-
-![populated](img/v0_1-populated.jpg)
 
 ### Thanks
 
