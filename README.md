@@ -24,6 +24,20 @@ STLs for all 3D printed items are located under [/stl](stl).
 
 Check out the [documentation](doc) for more details, including a bill of materials and full build process.
 
+## Purchasing options
+
+These are now available at:
+
+<a href="https://www.arcadeshopper.com/wp/store/#!/Keyboard99-Mitsumi-membrane-replacement-PCB-only/p/648592668"><img width="640" src="https://www.arcadeshopper.com/wp/wp-content/uploads/2016/01/Arcadeshopper-horizontal-Web-logo-1024x147.jpg"></img></a>
+
+For those outside the US, you can support the project by purchasing direct from my [PCBWay project page](https://www.pcbway.com/project/shareproject/KEYBOARD_4A_99_0361cd65.html). 
+
+### Thanks
+
+Thanks to [PCBWay](https://pcbway.com/g/186WQ9) for supporting this project.
+
+[![PCBWay](/img/pcbway_sm.png)](https://pcbway.com/g/186WQ9)
+
 ### Gallery
 
 ![](img/keyboard-populated.jpg)
@@ -31,13 +45,6 @@ Check out the [documentation](doc) for more details, including a bill of materia
 ![](img/keyboard-nocaps.jpg)
 
 ![](img/pcb-v1_0.jpg)
-
-
-### Thanks
-
-Thanks to [PCBWay](https://pcbway.com/g/186WQ9) for supporting this project.
-
-[![PCBWay](/img/pcbway_sm.png)](https://pcbway.com/g/186WQ9)
 
 ### Licence
 
