@@ -22,7 +22,7 @@ STLs for all 3D printed items are located under [/stl](stl).
 
 **Note:** Not all STLs are required.
 
-Check out the [documentation](doc) for more details, including a bill of materials and full build process.
+Check out the [documentation](doc) for more details, including a [bill of materials](doc#bill-of-materials) and full build process.
 
 ## Purchasing options
 
