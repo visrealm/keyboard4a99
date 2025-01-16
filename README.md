@@ -32,6 +32,12 @@ These are now available at:
 
 For those outside the US, you can support the project by purchasing direct from my [PCBWay project page](https://www.pcbway.com/project/shareproject/KEYBOARD_4A_99_0361cd65.html). 
 
+## Detailed build instructions
+
+[![KEYBOARD/4A-99 Cherry MX compatible upgrade procedure](https://img.visualrealmsoftware.com/youtube/thumb/9g29EfUJuLM)](https://youtu.be/9g29EfUJuLM "KEYBOARD/4A-99 Cherry MX compatible upgrade procedure")
+
+Also check out the [documentation](doc) for more details.
+
 ### Thanks
 
 Thanks to [PCBWay](https://pcbway.com/g/186WQ9) for supporting this project.
