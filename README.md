@@ -18,6 +18,10 @@ Currently, the upgrade is designed for the Mitsumi keyboards since their mylar i
 
 The Gerber file for the KEYBOARD/4A-99 PCB is available in the [/pcb](pcb) directory. I recommend the PCB is ordered in black.
 
+#### New version: v1.1
+
+Verion 1.1 adds support for re-using the original alpha-lock switch. The original switch provides much greater throw than the replacement I used in v1.0. As a result, the keycap adapters for v1.1 are slightly taller to match the taller alpha lock key. Also, the mounts are slightly slimmer.
+
 STLs for all 3D printed items are located under [/stl](stl). 
 
 **Note:** Not all STLs are required.
@@ -26,7 +30,11 @@ Check out the [documentation](doc) for more details, including a [bill of materi
 
 ## Purchasing options
 
-These are now available at:
+KEYBOARD/4A-99 PCBs and kits are available on my Tindie store:
+
+<a href="https://www.tindie.com/products/visrealm/keyboard4a-99"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+
+Also (more convenient for North America)
 
 <a href="https://www.arcadeshopper.com/wp/store/#!/Keyboard99-Mitsumi-membrane-replacement-PCB-only/p/648592668"><img width="640" src="https://www.arcadeshopper.com/wp/wp-content/uploads/2016/01/Arcadeshopper-horizontal-Web-logo-1024x147.jpg"></img></a>
 
