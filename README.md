@@ -4,6 +4,8 @@
 
 Finally! a Cherry MX compatible upgrade for the infamous Mitsumi mylar keyboards that plague many unfortunate Texas Instruments TI-99/4A computers.
 
+![](img/black-and-beige.jpg)
+
 ![](img/drake.jpg)
 
 The upgrade consists of a new PCB and a handful of 3D printed parts. The original look is maintained by re-using the original key caps (and some other original parts). Add the switches of your choice and you're set! A brand new keyboard for your TI-99/4A.
